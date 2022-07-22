@@ -15,7 +15,7 @@ import org.hibernate.service.ServiceRegistry;
 
 /**
  *
- * @author Toan
+ * @author FPT
  */
 public class Migrator {
      //Tạo DB trong SQL SERVER = SOFT2041_PTPM
